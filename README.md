@@ -1,6 +1,6 @@
 ## Hi there, I'm Derek 👋 
 
-### I'm currently a student at Chico State
+### I'm currently a student at Chico State:
 
 - I'm majoring in Mathmatics (Statistics) with a minor in Computer Science.
 - I work at the Center for Healthy Community (CHC) as a Community Health Assistant performing data analytics
@@ -37,7 +37,7 @@
 ---
 
 
-### zap: GitHub Stats
+### GitHub Stats
 
 <img align="left" alt="dhelms1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhelms1&show_icons=true&hide_border=true&count_private=true" />
 
