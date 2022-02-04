@@ -37,8 +37,6 @@
 ---
 
 
-### GitHub Stats
-
 <img align="left" alt="dhelms1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhelms1&show_icons=true&hide_border=true&count_private=true" />
 
 
