@@ -1,9 +1,9 @@
-## Hi there, I'm Derek 👋 
+## Hi there, I'm Derek 
 
 ### I'm currently a student at Chico State:
 
 - I'm majoring in Mathmatics (Statistics) with a minor in Computer Science.
-- I work at the Center for Healthy Community (CHC) as a Community Health Assistant performing data analytics
+- I work at the Center for Healthy Community (CHC) as a Community Health Assistant performing data analytics.
 - My main interest include applications of machine learning in the field of public health.
 
 
@@ -16,11 +16,23 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" unselectable="on" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" unselectable="on" />
+<img align="left" alt="R" width="26px" src="https://ih1.redbubble.net/image.2342919483.1141/st,small,507x507-pad,600x600,f8f8f8.jpg" unselectable="on" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" unselectable="on" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" unselectable="on" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" unselectable="on" />
 
 <br />
+
+---
+
+### 🏫 Current Courses (SP22)
+- MATH 420W: Advanced Calculus
+- MATH 485: Advanced Topics in Data Science
+- CSCI430: Software Engineering
+- CSCI581: Machine Learning
+- CSI420: Quantum Computing
 
 ---
 
@@ -42,4 +54,4 @@
 
 [website]: https://derekhelms.netlify.app/
 [instagram]: https://www.instagram.com/delmsh/
-[linkedin]: www.linkedin.com/in/derek-helms
+[linkedin]: https://www.linkedin.com/in/derek-helms
