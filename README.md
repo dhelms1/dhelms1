@@ -29,7 +29,6 @@
 
 ### 🏫 Current Courses (SP22)
 - MATH 420W: Advanced Calculus
-- MATH 485: Advanced Topics in Data Science
 - CSCI430: Software Engineering
 - CSCI581: Machine Learning
 - CSI420: Quantum Computing
