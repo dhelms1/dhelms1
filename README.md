@@ -1,9 +1,9 @@
 ## Hi there, I'm Derek 
 
-### I'm currently a student at Chico State:
+### I'm currently a student at Oregon State University:
 
-- I'm majoring in Mathmatics (Statistics) with a minor in Computer Science.
-- I work at the Center for Healthy Community (CHC) as a Community Health Assistant performing data analytics.
+- I'm majoring in Artificial Intelligence (MS).
+- I work in the EECS Department as a Graduate Teaching Assitant (currently for CS 271 - Computer Architecture & Assembly Language).
 - My main interest include applications of machine learning in the field of public health.
 
 
