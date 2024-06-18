@@ -3,6 +3,7 @@
 ### I'm a recent graduate student at Oregon State University:
 
 - I majored in Artificial Intelligence (MS).
+- My graduate project (Non-Thesis) was on *Automated Quality Control for Weather Station Readings via Historical Data*.
 - I worked in the EECS Department as a Graduate Teaching Assitant (Computer Architecture & Assembly Language, Algorithmic Thinking for Engineering).
 - My main interest include data science & machine learning in the field of public health and agriculture.
 
