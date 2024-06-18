@@ -1,10 +1,10 @@
 ## Hi there, I'm Derek 
 
-### I'm currently a student at Oregon State University:
+### I'm a recent graduate student at Oregon State University:
 
-- I'm majoring in Artificial Intelligence (MS).
-- I work in the EECS Department as a Graduate Teaching Assitant (currently for CS 271 - Computer Architecture & Assembly Language).
-- My main interest include applications of machine learning in the field of public health.
+- I majored in Artificial Intelligence (MS).
+- I worked in the EECS Department as a Graduate Teaching Assitant (Computer Architecture & Assembly Language, Algorithmic Thinking for Engineering).
+- My main interest include data science & machine learning in the field of public health and agriculture.
 
 
 ### Connect with me:
