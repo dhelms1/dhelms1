@@ -1,6 +1,6 @@
 ## Hi there, I'm Derek 
 
-### I'm a recent graduate student at Oregon State University:
+### I'm a recent graduate student from Oregon State University:
 
 - I majored in Artificial Intelligence (MS).
 - My graduate project (Non-Thesis) was on *Automated Quality Control for Weather Station Readings via Historical Data*.
