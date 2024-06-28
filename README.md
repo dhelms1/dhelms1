@@ -34,7 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Automated Quality Control for Weather Station Readings via Historical Data](https://derekhelms.netlify.app/p/capstone/)
-- [Ethical Analysis of Large Language Models (LLMs) in US Healthcare]([https://derekhelms.netlify.app/p/gpuscraping/](https://derekhelms.netlify.app/p/ethics/))
+- [Ethical Analysis of Large Language Models (LLMs) in US Healthcare](https://derekhelms.netlify.app/p/ethics/))
 - [An Introduction to Databases, PySpark, and the Google Cloud Platform](https://derekhelms.netlify.app/p/gcloud/)
 - [Polya's Distribution (Beta-Binomial) Parameter Estimation](https://derekhelms.netlify.app/p/polya/)
 <!-- BLOG-POST-LIST:END -->
